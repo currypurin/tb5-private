@@ -1,0 +1,6 @@
+## フォルダ単位
+
+
+## 拡張子単位
+*.ipynb_checkpoints
+__pycache__/
