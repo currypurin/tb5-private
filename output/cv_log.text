@@ -1,0 +1,13 @@
+2018/10/05 17:13:13
+dtrain: (205008, 3)       dtest: (102503, 3)
+<bound method LGBMModel.get_params of LGBMClassifier(boosting_type='gbdt', class_weight=None,
+        colsample_bytree=0.8197036, is_unbalance=True, learning_rate=0.1,
+        max_bin=100, max_depth=-1, min_child_samples=70,
+        min_child_weight=0, min_split_gain=0.0222415, n_estimators=10000,
+        n_jobs=-1, num_leaves=30, objective='binary', random_state=None,
+        reg_alpha=1, reg_lambda=3, silent=True, subsample=1.0,
+        subsample_for_bin=200000, subsample_freq=1)>
+score,std 0.7230329829859921 0.0024164414758257183 [0.7254788735394069, 0.723876919094288, 0.7197431563242813]
+best_iteration:   27.0 4.96655480858378 [34, 24, 23]
+
+--------------
